@@ -40,25 +40,25 @@
   <meta name="msvalidate.01" content="086C7B9115FFBAC3CA6EAF94F571BE8B" />
 
   <!-- Favicons meta tags -->
-  <link rel="shortcut icon" href="http://thierryrenewebdev.com/favicon/favicon.ico">
-  <link rel="apple-touch-icon" sizes="57x57" href="http://thierryrenewebdev.com/favicon/apple-touch-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="http://thierryrenewebdev.com/favicon/apple-touch-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="http://thierryrenewebdev.com/favicon/apple-touch-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="http://thierryrenewebdev.com/favicon/apple-touch-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="http://thierryrenewebdev.com/favicon/apple-touch-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="http://thierryrenewebdev.com/favicon/apple-touch-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="http://thierryrenewebdev.com/favicon/apple-touch-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="http://thierryrenewebdev.com/favicon/apple-touch-icon-152x152.png">
-  <link rel="icon" type="image/png" href="http://thierryrenewebdev.com/favicon/favicon-196x196.png" sizes="196x196">
-  <link rel="icon" type="image/png" href="http://thierryrenewebdev.com/favicon/favicon-160x160.png" sizes="160x160">
-  <link rel="icon" type="image/png" href="http://thierryrenewebdev.com/favicon/favicon-96x96.png" sizes="96x96">
-  <link rel="icon" type="image/png" href="http://thierryrenewebdev.com/favicon/favicon-16x16.png" sizes="16x16">
-  <link rel="icon" type="image/png" href="http://thierryrenewebdev.com/favicon/favicon-32x32.png" sizes="32x32">
+  <link rel="shortcut icon" href="//thierryrenewebdev.com/favicon/favicon.ico">
+  <link rel="apple-touch-icon" sizes="57x57" href="//thierryrenewebdev.com/favicon/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="//thierryrenewebdev.com/favicon/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="//thierryrenewebdev.com/favicon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="//thierryrenewebdev.com/favicon/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="//thierryrenewebdev.com/favicon/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="//thierryrenewebdev.com/favicon/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="//thierryrenewebdev.com/favicon/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="//thierryrenewebdev.com/favicon/apple-touch-icon-152x152.png">
+  <link rel="icon" type="image/png" href="//thierryrenewebdev.com/favicon/favicon-196x196.png" sizes="196x196">
+  <link rel="icon" type="image/png" href="//thierryrenewebdev.com/favicon/favicon-160x160.png" sizes="160x160">
+  <link rel="icon" type="image/png" href="//thierryrenewebdev.com/favicon/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="//thierryrenewebdev.com/favicon/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="//thierryrenewebdev.com/favicon/favicon-32x32.png" sizes="32x32">
   <meta name="apple-mobile-web-app-title" content="Thierry Rene Web Dev.">
   
   <!-- links -->
-  <link rel="author" type="text/plain" href="http://thierryrenewebdev.com/humans.txt">
-  <link rel="canonical" href="http://thierryrenewebdev.com/">
+  <link rel="author" type="text/plain" href="//thierryrenewebdev.com/humans.txt">
+  <link rel="canonical" href="//thierryrenewebdev.com/">
   
   <!-- Google Site Verification -->
   <meta name="google-site-verification" content="ZjrrHSVfP-yMddXTenY3nS4XmBFmJmJYMAx1tML0AtM" />
@@ -66,7 +66,7 @@
   <!-- <link rel="stylesheet" href="css/base/normalize.css"> -->
   <!-- <link rel="stylesheet" href="css/base/main.css"> -->
 
-  <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/readable/ -->
+  <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: //bootswatch.com/readable/ -->
   <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/readable/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom CSS via SASS -->
@@ -79,15 +79,15 @@
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css">
 
   <!--[if lt IE 9]>
-  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
   <!-- Windows/MS meta tags -->
 
   <meta name="application-name" content="Thierry Rene Web Dev.">
   <meta name="msapplication-TileColor" content="#424242">
-  <meta name="msapplication-TileImage" content="http://thierryrenewebdev.com/favicon/mstile-144x144.png">
-  <meta name="msapplication-config" content="http://thierryrenewebdev.com/favicon/browserconfig.xml">
+  <meta name="msapplication-TileImage" content="//thierryrenewebdev.com/favicon/mstile-144x144.png">
+  <meta name="msapplication-config" content="//thierryrenewebdev.com/favicon/browserconfig.xml">
 
   <!-- Twitter meta tags -->
 
@@ -96,18 +96,18 @@
   <meta name="twitter:creator" content="@thierryrenne">
   <meta name="twitter:title" content="Thierry Rene Web Dev.">
   <meta name="twitter:description" content="Desenvolver Web Front End">
-  <meta name="twitter:url" content="http://thierryrenewebdev.com">
-  <meta name="twitter:image" content="http://thierryrenewebdev.comhttp://thierryrenewebdev.com/favicon/favicon-196x196.png">
+  <meta name="twitter:url" content="//thierryrenewebdev.com">
+  <meta name="twitter:image" content="//thierryrenewebdev.com//thierryrenewebdev.com/favicon/favicon-196x196.png">
 
   <!-- Facebook meta tags -->
 
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Thierry Rene Web Developer">
-  <meta property="article:author" content="https://www.facebook.com/thierryrenesantosmatos">
+  <meta property="article:author" content="//www.facebook.com/thierryrenesantosmatos">
   <meta property="og:title" content="Thierry Rene Web Dev.">
   <meta property="og:description" content="Desenvolvedor Web Front End">
-  <meta property="og:url" content="http://thierryrenewebdev.com">
-  <meta property="og:image" content="http://thierryrenewebdev.com/favicon/favicon-196x196.png">
+  <meta property="og:url" content="//thierryrenewebdev.com">
+  <meta property="og:image" content="//thierryrenewebdev.com/favicon/favicon-196x196.png">
 
   <!-- Pinterest meta tags -->
 
@@ -118,7 +118,7 @@
 <body>
 
   <!--[if lt IE 7]>
-            <p class="chromeframe">Você está utilizando um navegador <strong>desatualizado</strong>. Por favor <a href="http://browsehappy.com/">atualize o seu navegador</a> ou <a href="http://www.google.com/chromeframe/?redirect=true">ative o Google Chrome Frame</a> para melhorar a navegação.</p>
+            <p class="chromeframe">Você está utilizando um navegador <strong>desatualizado</strong>. Por favor <a href="//browsehappy.com/">atualize o seu navegador</a> ou <a href="//www.google.com/chromeframe/?redirect=true">ative o Google Chrome Frame</a> para melhorar a navegação.</p>
   <![endif]-->
 
   <!-- content goes here -->
@@ -139,8 +139,8 @@
         <ul class="nav navbar-nav navbar-right nav-tabs" role="tablist">
 
           <li><a href="#scroll-about">Sobre</a></li>
-          <li><a href="http://websocialdev.com" target="_blank">Blog</a></li>
-          <!--<li><a href="http://expurgandodevaneios.thierryrenewebdev.com" target="_blank">@expurgandodevaneios</a></li>-->
+          <li><a href="//websocialdev.com" target="_blank">Blog</a></li>
+          <!--<li><a href="//expurgandodevaneios.thierryrenewebdev.com" target="_blank">@expurgandodevaneios</a></li>-->
           <li><a href="#scroll-contact">Contato</a></li>
 
         </ul>
@@ -247,14 +247,14 @@
 
           <div class="col-md-4 text-justify">
 
-            <p>Tenho alguns projetos paralelos que trato com muito carinho, um deles é o blog <a href="http://websocialdev.com"><strong>Web Social Dev</strong></a>, onde compartilho tudo que aprendo em relação a desenvolvimento web e marketing digital. E o <strong>Expurgando Devaneios</strong>, onde me expresso livremente sobre qualquer assunto.</p>
-            <p>Recentemente comecei a traduzir posts para os blog da Envato, <strong><a href="http://webdesign.tutsplus.com">Webdesigntuts+</a></strong> e <strong><a href="http://code.tutsplus.com">Nettuts+</a></strong>.</p>
+            <p>Tenho alguns projetos paralelos que trato com muito carinho, um deles é o blog <a href="//websocialdev.com"><strong>Web Social Dev</strong></a>, onde compartilho tudo que aprendo em relação a desenvolvimento web e marketing digital. E o <strong>Expurgando Devaneios</strong>, onde me expresso livremente sobre qualquer assunto.</p>
+            <p>Recentemente comecei a traduzir posts para os blog da Envato, <strong><a href="//webdesign.tutsplus.com">Webdesigntuts+</a></strong> e <strong><a href="//code.tutsplus.com">Nettuts+</a></strong>.</p>
 
           </div>
 
           <div class="col-md-4 text-justify">
 
-            <p>Além disso tento manter a participação ativa em comunidades de desenvolvimento como <a href="https://github.com/thierryrene"><strong>GitHub</strong></a>, StackOverflow, Bitbucket ou qualquer outra rede onde possam surgir discussões interessantes.</p>
+            <p>Além disso tento manter a participação ativa em comunidades de desenvolvimento como <a href="//github.com/thierryrene"><strong>GitHub</strong></a>, StackOverflow, Bitbucket ou qualquer outra rede onde possam surgir discussões interessantes.</p>
             <p>Também bato carteirinha em eventos de tecnologia e desenvolvimento web.</p>
 
           </div>
@@ -351,7 +351,7 @@
               <div class="col-md-offset-2 col-md-8">
                 
                 <p class="lead">Precisa de alguma <strong>solução com foco na Web</strong> ou auxílio para desenvolver alguma idéia <strong>baseada na internet</strong>?</p>
-                <p class="lead">Entre em contato, eu respondo bem rápido.<br><img draggable="false" class="emoji" alt="😀" src="http://twemoji.maxcdn.com/72x72/1f600.png"></p>
+                <p class="lead">Entre em contato, eu respondo bem rápido.<br><img draggable="false" class="emoji" alt="😀" src="//twemoji.maxcdn.com/72x72/1f600.png"></p>
 
                 <form class="form-horizontal" action="email/send_email.php" method="post">
 
@@ -411,7 +411,7 @@
             <!--<div class="list-icons">-->
               
             <!--  <p>-->
-            <!--    <img src="http://forthebadge.com/images/badges/built-by-developers.svg" alt="" class="responsive-img">-->
+            <!--    <img src="//forthebadge.com/images/badges/built-by-developers.svg" alt="" class="responsive-img">-->
             <!--  </p>-->
 
             <!--</div>-->
@@ -424,35 +424,35 @@
 
             <div class="list-icons">              
               
-              <a target="_blank" href="https://www.facebook.com/thierryrenesantosmatos" class="facebook">
+              <a target="_blank" href="//www.facebook.com/thierryrenesantosmatos" class="facebook">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-square-o fa-stack-2x"></i>
                   <i class="fa fa-facebook fa-stack-1x"></i>
                 </span>
               </a>
               
-              <a target="_blank" href="http://br.linkedin.com/pub/thierry-rene/2a/a7a/a7a" class="linkedin">
+              <a target="_blank" href="//br.linkedin.com/pub/thierry-rene/2a/a7a/a7a" class="linkedin">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-square-o fa-stack-2x"></i>
                   <i class="fa fa-linkedin fa-stack-1x"></i>
                 </span>
               </a>
               
-              <a target="_blank" href="https://twitter.com/thierryrenne" class="twitter">
+              <a target="_blank" href="//twitter.com/thierryrenne" class="twitter">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-square-o fa-stack-2x"></i>
                   <i class="fa fa-twitter fa-stack-1x"></i>
                 </span>
               </a>
               
-              <a target="_blank" href="https://plus.google.com/u/0/115712645340506483249" class="googleplus">
+              <a target="_blank" href="//plus.google.com/u/0/115712645340506483249" class="googleplus">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-square-o fa-stack-2x"></i>
                   <i class="fa fa-google-plus fa-stack-1x"></i>
                 </span>
               </a>
               
-              <a target="_blank" href="https://github.com/thierryrene" class="github">
+              <a target="_blank" href="//github.com/thierryrene" class="github">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-square-o fa-stack-2x"></i>
                   <i class="fa fa-github fa-stack-1x"></i>
@@ -501,14 +501,14 @@
 
   <!-- Google+ links -->
 
-  <a href="https://plus.google.com/115712645340506483249?rel=author"></a>
-  <a href="https://plus.google.com/117162753365804877029" rel="publisher"></a>
+  <a href="//plus.google.com/115712645340506483249?rel=author"></a>
+  <a href="//plus.google.com/117162753365804877029" rel="publisher"></a>
 
   <!-- javascript librarys -->  
 
   <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.2/modernizr.min.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
   <script src="js/main.js"></script>
   <script src="js/plugins.js"></script>
   
@@ -522,7 +522,7 @@
         (function(d, t) {
           var g = d.createElement(t),
             s = d.getElementsByTagName(t)[0];
-          g.src = ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
+          g.src = ('' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js';
           s.parentNode.insertBefore(g, s)
         }(document, 'script'));
       </script>
