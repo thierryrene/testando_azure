@@ -22,7 +22,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-    <title>thierry rene - desenvolvedor web / tradutor do tuts+ / entusiasta em UX</title>
+    <title>thierry rene - desenvolvedor web front end</title>
 
     <meta name="author" content="Thierry Rene Web Developer">
     <meta name="title" content="thierry rene - front end web developer">
