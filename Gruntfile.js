@@ -2,23 +2,6 @@ module.exports = function(grunt) {
 
     grunt.initConfig({
 
-        //inicio da configuração da task do stylus
-
-        // stylus: {
-        //     //definindo configuração de compilação 
-        //     compile: {
-        //         options: {
-        //             //aqui é definida a compressão como falsa, pois vamos fazer a compressão do arquivo depois
-        //             compress: false,
-        //             //aqui definimos a pasta onde ficam os arquivos do stylus | se houver alguma referência @extend, o Stylus vai procurar o arquivo neste apontamento
-        //             paths: ["source/stylus"]
-        //         },
-        //         files: {
-        //             "build/purestyle.css": "source/stylus/main.styl"
-        //         }
-        //     }
-        // },
-
         imagemin: {
             png: {
                 options: {
