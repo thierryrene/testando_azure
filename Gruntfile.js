@@ -103,7 +103,7 @@ module.exports = function(grunt) {
                     "build/output.min.js": [
                         "bower_components/jquery/dist/jquery.js",
                         "bower_components/modernizr.js",
-                        "bower_components/bootstrap-sass/assets/javascripts/bootstrap.min.js"
+                        "bower_components/bootstrap/dist/js/bootstrap.min.js"
                     ]
                 }
             }
