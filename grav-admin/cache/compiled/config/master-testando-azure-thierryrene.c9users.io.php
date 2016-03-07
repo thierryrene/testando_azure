@@ -1,8 +1,8 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1457309998,
-    'checksum' => '5d98395fca6bd6f7392ef554507d5425',
+    'timestamp' => 1457311129,
+    'checksum' => 'd3d947a2b2723a65333056102afa9120',
     'files' => [
         'user/config' => [
             'media' => [
@@ -23,7 +23,11 @@ return [
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1456413550
+                'modified' => 1457311129
+            ],
+            'themes/grayscale' => [
+                'file' => 'user/config/themes/grayscale.yaml',
+                'modified' => 1457310331
             ]
         ],
         'system/config' => [
@@ -517,7 +521,7 @@ return [
         ],
         'system' => [
             'absolute_urls' => false,
-            'timezone' => '',
+            'timezone' => 'America/Manaus',
             'default_locale' => NULL,
             'param_sep' => ':',
             'wrapped_site' => false,
@@ -549,8 +553,8 @@ return [
                 ],
                 'dateformat' => [
                     'default' => NULL,
-                    'short' => 'jS M Y',
-                    'long' => 'F jS \\a\\t g:ia'
+                    'short' => 'd-m-y G:i',
+                    'long' => 'D, d M Y G:i:s'
                 ],
                 'publish_dates' => true,
                 'process' => [
@@ -587,7 +591,7 @@ return [
                 'etag' => false,
                 'vary_accept_encoding' => false,
                 'redirect_default_route' => false,
-                'redirect_default_code' => 301,
+                'redirect_default_code' => '301',
                 'redirect_trailing_slash' => true,
                 'ignore_files' => [
                     0 => '.DS_Store'
@@ -668,6 +672,25 @@ return [
         ],
         'security' => [
             'salt' => 'Yi6QFDEW5krsun'
+        ],
+        'themes' => [
+            'grayscale' => [
+                'enabled' => true,
+                'color' => 'blue',
+                'dropdown' => [
+                    'enabled' => false
+                ],
+                'streams' => [
+                    'scheme' => [
+                        'theme' => [
+                            'type' => 'ReadOnlyStream',
+                            'paths' => [
+                                0 => 'user/themes/grayscale'
+                            ]
+                        ]
+                    ]
+                ]
+            ]
         ]
     ]
 ];
