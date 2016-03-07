@@ -1,17 +1,17 @@
 <?php
 return [
     '@class' => 'Grav\\Common\\Config\\CompiledConfig',
-    'timestamp' => 1457311129,
-    'checksum' => 'd3d947a2b2723a65333056102afa9120',
+    'timestamp' => 1457348414,
+    'checksum' => '3ff3d5b0e7357c0fa17ae7396c068ebe',
     'files' => [
         'user/config' => [
             'media' => [
                 'file' => 'user/config/media.yaml',
-                'modified' => 1457309995
+                'modified' => 1457348413
             ],
             'security' => [
                 'file' => 'user/config/security.yaml',
-                'modified' => 1457309994
+                'modified' => 1457348413
             ],
             'site' => [
                 'file' => 'user/config/site.yaml',
@@ -19,15 +19,11 @@ return [
             ],
             'streams' => [
                 'file' => 'user/config/streams.yaml',
-                'modified' => 1457309995
+                'modified' => 1457348413
             ],
             'system' => [
                 'file' => 'user/config/system.yaml',
-                'modified' => 1457311129
-            ],
-            'themes/grayscale' => [
-                'file' => 'user/config/themes/grayscale.yaml',
-                'modified' => 1457310331
+                'modified' => 1456413550
             ]
         ],
         'system/config' => [
@@ -521,7 +517,7 @@ return [
         ],
         'system' => [
             'absolute_urls' => false,
-            'timezone' => 'America/Manaus',
+            'timezone' => '',
             'default_locale' => NULL,
             'param_sep' => ':',
             'wrapped_site' => false,
@@ -553,8 +549,8 @@ return [
                 ],
                 'dateformat' => [
                     'default' => NULL,
-                    'short' => 'd-m-y G:i',
-                    'long' => 'D, d M Y G:i:s'
+                    'short' => 'jS M Y',
+                    'long' => 'F jS \\a\\t g:ia'
                 ],
                 'publish_dates' => true,
                 'process' => [
@@ -591,7 +587,7 @@ return [
                 'etag' => false,
                 'vary_accept_encoding' => false,
                 'redirect_default_route' => false,
-                'redirect_default_code' => '301',
+                'redirect_default_code' => 301,
                 'redirect_trailing_slash' => true,
                 'ignore_files' => [
                     0 => '.DS_Store'
@@ -671,26 +667,7 @@ return [
             ]
         ],
         'security' => [
-            'salt' => 'Yi6QFDEW5krsun'
-        ],
-        'themes' => [
-            'grayscale' => [
-                'enabled' => true,
-                'color' => 'blue',
-                'dropdown' => [
-                    'enabled' => false
-                ],
-                'streams' => [
-                    'scheme' => [
-                        'theme' => [
-                            'type' => 'ReadOnlyStream',
-                            'paths' => [
-                                0 => 'user/themes/grayscale'
-                            ]
-                        ]
-                    ]
-                ]
-            ]
+            'salt' => 'WXID6pmgB1czsR'
         ]
     ]
 ];
